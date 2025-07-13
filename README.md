@@ -1,7 +1,7 @@
 # splunk-windows-firewall-monitoring
 # 🛡️ Windows Firewall Monitoring with Splunk | Mini SOC Lab
 
-This project demonstrates a simulated Security Operations Center (SOC) lab using Splunk Enterprise and Universal Forwarders to monitor Windows Firewall activity and system-level logs across multiple virtual machines.
+This project demonstrates a simulated Security Operations Center (SOC) lab using Splunk Enterprise and Universal Forwarders to monitor Windows Firewall activity and system-level logs, application logs, security logs across multiple virtual machines.
 
 ---
 
